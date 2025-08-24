@@ -40,6 +40,7 @@ The dataset contains sales records with the following key columns:
 ## 📄 Files in this Repository
 - `International_breweries.sql`: The main file containing all SQL queries for the analysis.
 - `International_Breweries.csv`: The data file
+- `README.md`: This file
 
 ## 👨‍💻 Author
 **Oluwaseun E. Olubunmi**
