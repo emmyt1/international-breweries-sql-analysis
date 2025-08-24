@@ -35,13 +35,14 @@ The dataset contains sales records with the following key columns:
 3. The third quarter of 2019 generated the highest profit.
 
 ## 🚀 How to Use This Project
-1. **Clone the repository:** `git clone [your-repo-url-here]`
+1. **Clone the repository:** `git clone [github.com/emmyt1/international-breweries-sql-analysis]`
 2. Run the SQL scripts in your preferred database management tool (e.g., pgAdmin for PostgreSQL).
 
 ## 📄 Files in this Repository
 - `International_breweries.sql`: The main file containing all SQL queries for the analysis.
+- `International_Breweries.csv`: The data file
 
 ## 👨‍💻 Author
 **Your Name**
-- LinkedIn: [Link to your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
-- GitHub: [@YourUsername](https://github.com/YourUsername)
+- LinkedIn: [Link to your LinkedIn Profile](https://www.linkedin.com/in/ooluwaseun/)
+- GitHub: [@emmyt1](https://github.com/emmyt1)
