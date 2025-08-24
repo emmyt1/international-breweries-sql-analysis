@@ -42,6 +42,6 @@ The dataset contains sales records with the following key columns:
 - `International_Breweries.csv`: The data file
 
 ## 👨‍💻 Author
-**Your Name**
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/ooluwaseun/)
-- GitHub: [@emmyt1](https://github.com/emmyt1)
+**Oluwaseun E. Olubunmi**
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/ooluwaseun/)
+- [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)][@emmyt1](https://github.com/emmyt1)
