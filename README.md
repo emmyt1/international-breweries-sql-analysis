@@ -44,5 +44,5 @@ The dataset contains sales records with the following key columns:
 
 ## 👨‍💻 Author
 **Your Name**
-- LinkedIn: [Link to your LinkedIn Profile](https://www.linkedin.com/in/ooluwaseun/)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/ooluwaseun/)
 - GitHub: [@emmyt1](https://github.com/emmyt1)
