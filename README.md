@@ -1,6 +1,5 @@
 # International Breweries Data Analysis Project
-A detailed SQL analysis on international breweries sales data to derive profit and sales insights.
-
+[![License](https://img.shields.io/badge/License-MIT-lightgrey)](LICENSE)
 
 ## 📊 Project Overview
 This project involves a comprehensive analysis of international breweries sales data across West African countries from 2017 to 2019. The goal was to use SQL to derive insights into profitability, brand performance, and sales trends to aid strategic decision-making.
